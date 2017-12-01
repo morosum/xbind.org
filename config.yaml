@@ -1,0 +1,89 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "Xin Liu | 刘鑫"
+theme: "hugo-ivy"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
+hasCJKLanguage: true
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+rssLimit: 30
+
+permalinks:
+  cn: "/cn/:year/:month/:slug/"
+  en: "/en/:year/:month/:slug/"
+
+menu:
+  main:
+    - name: "About"
+      url: "/en/about/"
+      weight: 1
+    - name: "English"
+      url: "/en/"
+      weight: 2
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 3
+    - name: "中文"
+      url: "/cn/"
+      weight: 4
+  en:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/en/about/"
+      weight: 2
+    - name: "Vitae"
+      url: "/en/vitae/"
+      weight: 3
+    - name: 'Research'
+      url: '/en/research/'
+      weight: 4
+    - name: "Blog"
+      url: "/en/"
+      weight: 5
+    - name: "中文"
+      url: "/cn/"
+      weight: 6
+  cn:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 2
+    - name: "简历"
+      url: "/cn/vitae/"
+      weight: 3
+    - name: "博客"
+      url: "/cn/"
+      weight: 4
+    - name: "English"
+      url: "/en/"
+      weight: 5
+
+params:
+  description: "Personal website of Xin Liu."
+  footer: "&copy; [Xin Liu](/) 2017 | [Mail](mailto:liuxin.cib@gmail.com)"
+  dateFormat: "2006/01/02"
+  customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js", "load-typekit.js"]
+  customCSS: ["css/custom.css"]  
+
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion: "9.12.0"
+  highlightjsCDN: "//cdn.bootcss.com"
+  highlightjsLang: ["r", "yaml"]
+  highlightjsTheme: "github"
+
+  logo:
+    en:
+      img: "/images/logo.png"
+      url: "/"
+      alt: "Xin Liu"
+      tag: ""
+
+  author:
+    en: "Xin Liu"
+    cn: "刘鑫"

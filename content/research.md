@@ -32,7 +32,7 @@ We implemented a before–after, control–impact (BACI) designed experiment in 
 
 Mosses comprise most of the understory in subalpine and boreal coniferous forests. They are assumed to be critical regulator of biogeochemical cycles in the forest ecosystems. Despite their high abundance in many ecosystems, it is still largely unknown how efficient mosses are in using and recycling nutrients, as well as the rate of mosses lose nutrient to the ecosystem via e.g. leaching. 
 
-<img src="https://assets.xbind.org/assets/img/bryo_mosses_hyl_act_pti_rhy.jpg" width="400" alt="4 common mosses in a subalpine forest" align=center />
+![Common mosses in a subalpine forest](https://assets.xbind.org/assets/img/bryo_mosses_hyl_act_pti_rhy.jpg)
 
 Moss differ from vascular plants in both biology and ecology, such as lacking highly specialized conducting tissue and having leaves one cell thick. Because of these unique physiological and ecological characteristics, bryophytes serve as effcetive traps for water and nutrients in atmospheric deposition. These features, on the other hand, lead to the possibility of losing nutrients during changes in the microclimate such as sudden rain events. 
 

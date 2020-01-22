@@ -20,7 +20,7 @@ menu:
       url: "/en/about/"
       weight: 1
     - name: "English"
-      url: "/en/"
+      url: "/en/research/"
       weight: 2
     - name: "关于"
       url: "/cn/about/"

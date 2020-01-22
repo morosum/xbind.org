@@ -30,12 +30,19 @@ We implemented a before–after, control–impact (BACI) designed experiment in 
 
 ## Nutrient use of understory mosses
 
-Bryophytes are critical regulator of biogeochemical cycles in boreal and subalpine forest ecosystems (Turetsky, 2003). Bryophytes differ from vascular plants in both biology and ecology, such as lacking highly specialized conducting tissue and having leaves one cell thick. Because of these unique physiological and ecological characteristics, bryophytes serve as effcetive traps for water and nutrients in atmospheric deposition. However, the effect of byrophytes in ecosystem biogeochemical cycles received much less attentions. I am using a <sup>15</sup>N tracer experiment to determine N resorption, N release, N and P use strategis of 2 dominant moss species in the understory of subalpine fir forest. Unlike previously hypothesized, I found that the 2 mosses are efficient in N resorption. N leaching from live tissue is an important but often overlooked pathway that the mosses release N. This study has implications for understanding and predicting biogeochemical cycles in the ecosystems where mosses are abundant.
+Mosses comprise most of the understory in subalpine and boreal coniferous forests. They are assumed to be critical regulator of biogeochemical cycles in the forest ecosystems. Despite their high abundance in many ecosystems, it is still largely unknown how efficient mosses are in using and recycling nutrients, as well as the rate of mosses lose nutrient to the ecosystem via e.g. leaching. 
+
+<img src="https://assets.xbind.org/assets/img/bryo_mosses_hyl_act_pti_rhy.jpg" width="400" alt="4 common mosses in a subalpine forest" align=center />
+
+Moss differ from vascular plants in both biology and ecology, such as lacking highly specialized conducting tissue and having leaves one cell thick. Because of these unique physiological and ecological characteristics, bryophytes serve as effcetive traps for water and nutrients in atmospheric deposition. These features, on the other hand, lead to the possibility of losing nutrients during changes in the microclimate such as sudden rain events. 
+
+To aid in understanding the N dynamics of mosses, we established and tested a conceptual framework describing the possible pathways that mosses recycle or lose N during senescence. We followed the fate of N in two dominant mosses using stable isotopes <sup>15</sup>N in old-growth fir forests in the eastern Tibetan Plateau. Unlike previously hypothesized, I found that the 2 mosses are efficient in N resorption. Nitrogen leaching from live tissue is an important but often overlooked pathway that the mosses release N. 
 
 <img src="https://assets.xbind.org/assets/img/bryo_acthoo_hylspl.jpg" width="400" alt="Actinothuidium and Hylocomium" align=center />
 
 **Relevant**:
 
++ **Xin Liu**, Zhe Wang, Xiao-Ming Li, Kathrin Rousk, WeiKai Bao. 2020. High nitrogen resorption efficiency of forest mosses. *Annals of Botany* in press. [DOI:10.1093/aob/mcz199](https://doi.org/10.1093/aob/mcz199)
 + **Xin Liu**, Zhe Wang, XiaoMing Li and WeiKai Bao. 2017 July. *XIX International Botanical Congress*, Shenzhen, China. [Poster](https://assets.xbind.org/assets/slides/poster_ibc2017_T2-27-22.png)
 + **Xin Liu**, Zhe Wang, WeiKai Bao and XiaoMing Li 2015. Photosynthetic responses of two pleurocarpous mosses to low-level nitrogen addition: A study in an old-growth fir forest. *Journal of Bryology* 37(1): 15-22. [DOI: 10.1179/1743282014y.0000000122](http://www.tandfonline.com/doi/full/10.1179/1743282014Y.0000000122)
 + Zhe Wang, **Xin Liu** and WeiKai Bao 2016. Higher photosynthetic capacity and different functional trait scaling relationships in erect bryophytes compared with prostrate species. *Oecologia* 180(2): 359-369. [DOI: 10.1007/s00442-015-3484-2](https://link.springer.com/article/10.1007/s00442-015-3484-2)

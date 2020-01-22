@@ -16,11 +16,11 @@ I use both observational studies and manipulative experiments to test ecological
 
 Understory plant communities are crucial for forest functioning. They play important roles in providing habitats and food for insects and other animals, recycling nutrients, sustaining ecosystem productivity and stability, and holding much of the biodiversity. Understory plant communities are influenced by overstory type and canopy structure attributes such as cover and tree density. Furthermore, these factors are substantially affected by stand-replacing disturbances, among which clear-cut logging is one of the severest anthropogenic disturbances. Thus, the understory of forest communities undergoes extensive changes immediately after clear-cutting.
 
-![Understory plant](https://xliu.updog.co/assets/img/herb_calypso.jpg)
+![Understory plant](https://assets.xbind.org/assets/img/herb_calypso.jpg)
 
 We implemented a before–after, control–impact (BACI) designed experiment in a high-elevation, old-growth spruce forest in the eastern Tibetan Plateau to understand the response of the understory plant community, as well as the driving roles of environmental alteration (e.g., radiation, temperature, humidity, and nutrients), physical disturbance (e.g., direct damage by trampling and tree-felling). We found that the short-term responses of understory vegetation to clear-cutting are distinct across different assemblages due to various mechanisms. Bryophytes are more sensitive than vascular plants, and cover percentage responded more swiftly than species richness to clear-cutting.
 
-![Forest clearcut](https://xliu.updog.co/assets/img/forest_clearcut_1.jpg)
+![Forest clearcut](https://assets.xbind.org/assets/img/forest_clearcut_1.jpg)
 
 **Relevant**:
 
@@ -32,11 +32,11 @@ We implemented a before–after, control–impact (BACI) designed experiment in 
 
 Bryophytes are critical regulator of biogeochemical cycles in boreal and subalpine forest ecosystems (Turetsky, 2003). Bryophytes differ from vascular plants in both biology and ecology, such as lacking highly specialized conducting tissue and having leaves one cell thick. Because of these unique physiological and ecological characteristics, bryophytes serve as effcetive traps for water and nutrients in atmospheric deposition. However, the effect of byrophytes in ecosystem biogeochemical cycles received much less attentions. I am using a <sup>15</sup>N tracer experiment to determine N resorption, N release, N and P use strategis of 2 dominant moss species in the understory of subalpine fir forest. Unlike previously hypothesized, I found that the 2 mosses are efficient in N resorption. N leaching from live tissue is an important but often overlooked pathway that the mosses release N. This study has implications for understanding and predicting biogeochemical cycles in the ecosystems where mosses are abundant.
 
-<img src="https://xliu.updog.co/assets/img/bryo_acthoo_hylspl.jpg" width="400" alt="Actinothuidium and Hylocomium" align=center />
+<img src="https://assets.xbind.org/assets/img/bryo_acthoo_hylspl.jpg" width="400" alt="Actinothuidium and Hylocomium" align=center />
 
 **Relevant**:
 
-+ **Xin Liu**, Zhe Wang, XiaoMing Li and WeiKai Bao. 2017 July. *XIX International Botanical Congress*, Shenzhen, China. [Poster](https://xliu.updog.co/assets/slides/poster_ibc2017_T2-27-22.png)
++ **Xin Liu**, Zhe Wang, XiaoMing Li and WeiKai Bao. 2017 July. *XIX International Botanical Congress*, Shenzhen, China. [Poster](https://assets.xbind.org/assets/slides/poster_ibc2017_T2-27-22.png)
 + **Xin Liu**, Zhe Wang, WeiKai Bao and XiaoMing Li 2015. Photosynthetic responses of two pleurocarpous mosses to low-level nitrogen addition: A study in an old-growth fir forest. *Journal of Bryology* 37(1): 15-22. [DOI: 10.1179/1743282014y.0000000122](http://www.tandfonline.com/doi/full/10.1179/1743282014Y.0000000122)
 + Zhe Wang, **Xin Liu** and WeiKai Bao 2016. Higher photosynthetic capacity and different functional trait scaling relationships in erect bryophytes compared with prostrate species. *Oecologia* 180(2): 359-369. [DOI: 10.1007/s00442-015-3484-2](https://link.springer.com/article/10.1007/s00442-015-3484-2)
 

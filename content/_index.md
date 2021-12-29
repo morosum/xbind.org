@@ -4,8 +4,10 @@ author: "Xin Liu"
 date: '2017-01-28'
 ---
 
-![Understory bryophyte layer](https://assets.xbind.org/assets/img/forest_bryo_layer.jpg)
+![Understory bryophyte layer in a subalpine forest](https://storage.live.com/items/D70A892E0DD05FA3!2839?authkey=AKNCRUpelpMuI5U)
 
-This is Xin Liu's personal website. I am an assistant researcher working at Chengdu Institute of Biology, Chinese Academy of Sciences. The website will has both English and Chinese posts. In the English posts, I will mainly write something about my research interest, observations and thoughts. 
+This is Xin Liu's personal website. 
 
-The picture above shows the understory plant assemblage of subalpine coniferous forests in Eastern Tibetan Plateau, where bryophytes (mainly mosses and liverworts) are ubiquitous and critical in regulating biogeochemical cycles.
+I am broadly interested in plant ecology, forest ecology, and terrestrial ecosystem processes. My research works are mainly focused on the role of understory plant assemblages, especially mosses, in the primary production and nutrient cycling of subalpine forests. Most of the researches are implemented in subalpine forests on the eastern Tibetan Plateau and upper reaches of the Yangtze River.
+
+The picture above shows the understory plant assemblage of subalpine coniferous forests in the eastern Tibetan Plateau, where bryophytes are ubiquitous and critical in regulating biogeochemical cycles.

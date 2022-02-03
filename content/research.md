@@ -16,7 +16,7 @@ I use both observational studies and manipulative experiments to test ecological
 
 Understory plant communities are crucial for forest functioning. They play important roles in providing habitats and food for insects and other animals, recycling nutrients, sustaining ecosystem productivity and stability, and holding much of the biodiversity. Understory plant communities are influenced by overstory type and canopy structure attributes such as cover and tree density. Furthermore, these factors are substantially affected by stand-replacing disturbances, among which clear-cut logging is one of the severest anthropogenic disturbances. Thus, the understory of forest communities undergoes extensive changes immediately after clear-cutting.
 
-![Understory plant](https://assets.xbind.org/assets/img/herb_calypso.jpg)
+![Understory plant](https://storage.live.com/items/D70A892E0DD05FA3!2925?authkey=AKNCRUpelpMuI5U)
 
 We implemented a before–after, control–impact (BACI) designed experiment in a high-elevation, old-growth spruce forest in the eastern Tibetan Plateau to understand the response of the understory plant community, as well as the driving roles of environmental alteration (e.g., radiation, temperature, humidity, and nutrients), physical disturbance (e.g., direct damage by trampling and tree-felling). We found that the short-term responses of understory vegetation to clear-cutting are distinct across different assemblages due to various mechanisms. Bryophytes are more sensitive than vascular plants, and cover percentage responded more swiftly than species richness to clear-cutting.
 

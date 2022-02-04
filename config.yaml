@@ -19,11 +19,11 @@ menu:
     - name: "About"
       url: "/en/about/"
       weight: 1
-    - name: "English"
-      url: "/en/research/"
+    - name: 'Research'
+      url: '/en/research/'
       weight: 2
-    - name: "关于"
-      url: "/cn/about/"
+    - name: "English"
+      url: "/en/"
       weight: 3
     - name: "中文"
       url: "/cn/"
@@ -51,22 +51,16 @@ menu:
     - name: "首页"
       url: "/"
       weight: 1
-    - name: "关于"
-      url: "/cn/about/"
-      weight: 2
-    - name: "简历"
-      url: "/cn/vitae/"
-      weight: 3
     - name: "博客"
       url: "/cn/"
-      weight: 4
+      weight: 2
     - name: "English"
-      url: "/en/"
-      weight: 5
+      url: "/en/research/"
+      weight: 3
 
 params:
   description: "Personal website of Xin Liu."
-  footer: "&copy; [Xin Liu](/) 2017 | [Mail](mailto:liuxin.cib@gmail.com)"
+  footer: "&copy; [Xin Liu](/) 2017-2022 | [Mail](mailto:liuxin.cib@gmail.com)"
   dateFormat: "2006/01/02"
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js", "load-typekit.js"]
   customCSS: ["css/custom.css"]  

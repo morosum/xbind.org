@@ -24,13 +24,13 @@ if (length(rmds)) {
 
 # add https://xliu.updog.co/static to image/video URLs /figures/...
 # "sed.exe" in "%ProgramFiles%/Git/usr/bin/", add to PATH first
-if (!local && Sys.which('sed') != '') for (i in files[, 2]) {
-  Sys.chmod(i, '644')  # unlock .md
-  system2('sed', paste(
-    "-i '' -e 's@\\([(\"]\\)\\(/figures/\\)@\\1https://xliu.updog.co/static\\2@g'", i
-  ))
-  Sys.chmod(i, '444')  # lock .md again
-}
+#if (!local && Sys.which('sed') != '') for (i in files[, 2]) {
+#  Sys.chmod(i, '644')  # unlock .md
+#  system2('sed', paste(
+#    "-i '' -e 's@\\([(\"]\\)\\(/figures/\\)@\\1https://xliu.updog.co/static\\2@g'", i
+#  ))
+#  Sys.chmod(i, '444')  # lock .md again
+#}
 
 if (TRUE) {
   message('Optimizing PNG files under static/')

@@ -8,9 +8,19 @@ My researches are mainly implemented in subalpine spruce or fir forest ecosystem
 
 Forest ecosystems face multiple anthropogenic threats in both the past and present. For instance, disturbances form forest harvest and afforestation can result in multiple dirvers of forest changes. Thus, I examine the patterns of changes in understory plant assemblages in responses to forest harvest.
 
-Understory byrophyte layer is an important but often overlooked component of the forest integrity, and is crucial in forest ecosystem function, such as nutrient cycling. I examine the nutrient use strategy of main understory moss species with an *in situ* experiment.
+Understory bryophyte layer is an important but often overlooked component of the forest integrity, and is crucial in forest ecosystem function, such as nutrient cycling. I examine the nutrient use strategy of main understory moss species with an *in situ* experiment.
 
 I use both observational studies and manipulative experiments to test ecological theory and provide applied information for forest management and biodiversity conservation.
+
+## Nitrogen fixation of moss-cyanobacteria association
+
+Mosses are abundant in many pristine ecosystems, such as boreal forests, subalpine forests and subarctic tundra, where N deposition is low and plant growth is commonly limited by N availability. Nitrogen fixation performed by moss-associated cyanobacteria is the main N source in these ecosystems. Wide-ranging taxa of mosses have been found to host cyanobacteria, but nitrogen fixation activity of the association varies greatly among moss species. We examined morphological, chemical and water-balance traits for 4 moss species varying in nitrogen fixation activity, and correlated these traits to cyanobacterial abundance. We found hydration rate was one of the pivotal traits, explaining 56 and 38 % of the variation in nitrogen fixation and cyanobacterial colonization, respectively, and was linked to morphological traits of the moss species. A considerable amount of paraphyllia, filamentous appendages on *Hylocomium splendens* stems, was colonized by cyanobacteria.
+
+![A picture showing a section of *Hylocomium splendens* stem with leaves and paraphyllia under an UV-fluorescence microscope](https://storage.live.com/items/D70A892E0DD05FA3!2935?authkey=AKNCRUpelpMuI5U)
+
+**Relevant**:
+
++ **Xin Liu** and Kathrin Rousk. 2022. The moss traits that rule cyanobacterial colonization. *Annals of Botany* 129(2): 147–160. [DOI: 10.1093/aob/mcab127](https://academic.oup.com/aob/article/129/2/147/6386096)
 
 ## Nutrient use of understory mosses
 
@@ -18,15 +28,11 @@ Mosses comprise most of the understory in subalpine and boreal coniferous forest
 
 ![Pictures showing common mosses in subalpine forests in eastern Tibetan Plateau](https://storage.live.com/items/D70A892E0DD05FA3!2928?authkey=AKNCRUpelpMuI5U)
 
-<!-- 
-<img src="https://storage.live.com/items/D70A892E0DD05FA3!2928?authkey=AKNCRUpelpMuI5U" width="400" alt="Pictures showing common mosses in subalpine forests in eastern Tibetan Plateau" align=center /> 
--->
-
 Moss differ from vascular plants in both biology and ecology, such as lacking highly specialized conducting tissue and having leaves one cell thick. Because of these unique physiological and ecological characteristics, bryophytes serve as effcetive traps for water and nutrients in atmospheric deposition. These features, on the other hand, lead to the possibility of losing nutrients during changes in the microclimate such as sudden rain events. 
 
 To aid in understanding the N dynamics of mosses, we established and tested a conceptual framework describing the possible pathways that mosses recycle or lose N during senescence. We followed the fate of N in two dominant mosses using stable isotopes <sup>15</sup>N in old-growth fir forests in the eastern Tibetan Plateau. Unlike previously hypothesized, I found that the 2 mosses are efficient in N resorption. Nitrogen leaching from live tissue is an important but often overlooked pathway that the mosses release N. 
 
-<img src="https://storage.live.com/items/D70A892E0DD05FA3!2929?authkey=AKNCRUpelpMuI5U" width="400" alt="Pictures of Actinothuidium and Hylocomium" align=center />
+<!-- <img src="https://storage.live.com/items/D70A892E0DD05FA3!2929?authkey=AKNCRUpelpMuI5U" width="400" alt="Pictures of Actinothuidium and Hylocomium"> -->
 
 **Relevant**:
 

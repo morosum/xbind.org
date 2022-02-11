@@ -8,12 +8,12 @@ disable_comments: true
 
 ## Contact Information
 
-</br>
-Address: No. 9, Sect. 4, Renmin Nan Ave., Chengdu, China.
+- Email: liuxin.cib@gmail.com
 
-<!-- Tel: +86 28 8289 0533 -->
-
-Email: liuxin.cib@gmail.com
+<!-- 
+- Tel: +86 28 8289 0533
+- Address: No. 9, Sect. 4, Renmin Nan Ave., Chengdu, China. 
+-->
 
 ## Education Background
 

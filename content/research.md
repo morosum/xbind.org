@@ -10,6 +10,16 @@ The forests face multiple anthropogenic threats, such as disturbances from silvi
 
 Mosses, and other bryophytes, are especially important in the understory layer of many forests. They cover a large area of forest floor, host nitrogen-fixing cyanobacteria, regulate nutrient cycling, and work as a boundary layer between atmosphere and forest ecosystems. I employ field experiments to understand nutrient use strategy of mosses and their role in ecosystem cycling. 
 
+## Structure and compostition of understory plant communities as response to silvicutural actitvities 
+
+The subalpine forests on the eastern Tibetan Plateau are very much similar to the forests of the boreal zone. They share a characteristic vegetation structure, consisting of a tree layer and an understory of dwarf shrubs, mosses and lichens. Understory plant communities are strongly influenced by the overstory, as the canopy structure controls light, temperature and moisture condition. The understory plant communities undergo extensive changes after silvicultural activities manipulating canopy layers. 
+
+![Pictures showing the understory of a subalpine forest and some common plants](https://storage.live.com/items/D70A892E0DD05FA3!2947?authkey=AKNCRUpelpMuI5U)
+
+Among those activities, clear-cut logging is a serious, if not the most, anthropogenic disturbance to the forest. It induces both physical damages to the understory and alterations in environmental factors. In a field experiment, we found that the short-term responses of understory vegetation to clear-cutting are distinct across different assemblages. Bryophytes are more sensitive than vascular plants, and cover percentage responded more swiftly than species richness to clear-cutting.
+
+![Picture showing a typical cutover in the eastern Tibetan Plateau](https://storage.live.com/items/D70A892E0DD05FA3!2931?authkey=AKNCRUpelpMuI5U)
+
 ## Nitrogen fixation of moss-cyanobacteria association
 
 Mosses are abundant in many pristine ecosystems, such as boreal forests, subalpine forests and subarctic tundra, where N deposition is low and plant growth is commonly limited by N availability. Nitrogen fixation performed by moss-associated cyanobacteria is the main N source in these ecosystems. Wide-ranging taxa of mosses have been found to host cyanobacteria, but nitrogen fixation activity of the association varies greatly among moss species. We examined morphological, chemical and water-balance traits for 4 moss species varying in nitrogen fixation activity, and correlated these traits to cyanobacterial abundance. We found hydration rate was one of the pivotal traits, explaining 56 and 38 % of the variation in nitrogen fixation and cyanobacterial colonization, respectively, and was linked to morphological traits of the moss species. A considerable amount of paraphyllia, filamentous appendages on *Hylocomium splendens* stems, was colonized by cyanobacteria. Check out the [press release](https://www.botany.one/2022/02/what-does-cyanobacteria-look-for-in-a-good-moss-host/) of our paper by the blog Botany One!
@@ -40,22 +50,3 @@ To aid in understanding the N dynamics of mosses, we established and tested a co
 + **Xin Liu**, Zhe Wang, WeiKai Bao and XiaoMing Li 2015. Photosynthetic responses of two pleurocarpous mosses to low-level nitrogen addition: A study in an old-growth fir forest. *Journal of Bryology* 37(1): 15-22. [DOI: 10.1179/1743282014y.0000000122](http://www.tandfonline.com/doi/full/10.1179/1743282014Y.0000000122)
 + Zhe Wang, **Xin Liu** and WeiKai Bao 2016. Higher photosynthetic capacity and different functional trait scaling relationships in erect bryophytes compared with prostrate species. *Oecologia* 180(2): 359-369. [DOI: 10.1007/s00442-015-3484-2](https://link.springer.com/article/10.1007/s00442-015-3484-2)
 
-## Response of understory plant assemblage to anthropogenic disturbance
-
-Understory plant communities are crucial for forest functioning. They play important roles in providing habitats and food for insects and other animals, recycling nutrients, sustaining ecosystem productivity and stability, and holding much of the biodiversity. Understory plant communities are influenced by overstory type and canopy structure attributes such as cover and tree density. Furthermore, these factors are substantially affected by stand-replacing disturbances, among which clear-cut logging is one of the severest anthropogenic disturbances. Thus, the understory of forest communities undergoes extensive changes immediately after clear-cutting.
-
-![Picture of *Calypso bulbosa*, a plant species appears in understory of fir forst](https://storage.live.com/items/D70A892E0DD05FA3!2925?authkey=AKNCRUpelpMuI5U)
-
-We implemented a before–after, control–impact (BACI) designed experiment in a high-elevation, old-growth spruce forest in the eastern Tibetan Plateau to understand the response of the understory plant community, as well as the driving roles of environmental alteration (e.g., radiation, temperature, humidity, and nutrients), physical disturbance (e.g., direct damage by trampling and tree-felling). We found that the short-term responses of understory vegetation to clear-cutting are distinct across different assemblages due to various mechanisms. Bryophytes are more sensitive than vascular plants, and cover percentage responded more swiftly than species richness to clear-cutting.
-
-![Picture showing a typical cutover in the eastern Tibetan Plateau](https://storage.live.com/items/D70A892E0DD05FA3!2931?authkey=AKNCRUpelpMuI5U)
-
-**Relevant**:
-
-+ **Xin Liu** and WeiKai Bao 2014. Understory plant assemblages present distinct short-term responses to the clear-cutting of an old-growth spruce forest near an alpine timberline. *Canadian Journal of Forest Research* 44(6): 562-571. [DOI: 10.1139/cjfr-2013-0377](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfr-2013-0377?j)
-+ Zhi Qiang Fang, Wei Kai Bao, Xiao Li Yan and **Xin Liu** 2014. Understory structure and vascular plant diversity in naturally regenerated deciduous forests and spruce plantations on similar clear-cuts: Implications for forest regeneration strategy selection. *Forests* 5(4): 715-743. [DOI: 10.3390/f5040715](http://www.mdpi.com/1999-4907/5/4/715)
-+ **Xin Liu** and WeiKai Bao 2011. Community structure and vascular plant species composition of primary spruce forest near timberline in the eastern tibetan plateau. *Biodiversity Science* 19(1): 34-40. [DOI: 10.3724/SP.J.1003.2011.07098](http://www.biodiversity-science.net/CN/abstract/abstract9491.shtml)
-
-## Other works
-
-I also participate in the "*Castanopsis* forest inventory" project, which is a subject of the "Compile of Chinese Vegetation", and "Evaluation on the carbon pools of Sichuan’s forest ecosystems ― current status, capacities and sinks".

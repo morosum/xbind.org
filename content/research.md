@@ -24,7 +24,7 @@ Among those activities, clear-cut logging is a serious, if not the most, anthrop
 
 + **Xin Liu** and Wei-Kai Bao 2014. Understory plant assemblages present distinct short-term responses to the clear-cutting of an old-growth spruce forest near an alpine timberline. *Canadian Journal of Forest Research* 44(6): 562-571. [DOI: 10.1139/cjfr-2013-0377](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfr-2013-0377?j)
 + Zhi-Qiang Fang, Wei-Kai Bao, Xiao-Li Yan and **Xin Liu** 2014. Understory structure and vascular plant diversity in naturally regenerated deciduous forests and spruce plantations on similar clear-cuts: Implications for forest regeneration strategy selection. *Forests* 5(4): 715-743. [DOI: 10.3390/f5040715](http://www.mdpi.com/1999-4907/5/4/715)
-+ **Xin Liu** and Wei-Kai Bao 2011. Community structure and vascular plant species composition of primary spruce forest near timberline in the eastern tibetan plateau. *Biodiversity Science* 19(1): 34-40. In Chinese with English abstract. [DOI: 10.3724/SP.J.1003.2011.07098](http://www.biodiversity-science.net/CN/abstract/abstract9491.shtml) 
++ **Xin Liu** and Wei-Kai Bao 2011. Community structure and vascular plant species composition of primary spruce forest near timberline in the eastern tibetan plateau. *Biodiversity Science* 19(1): 34-40. In Chinese with English abstract. [DOI: 10.3724/SP.J.1003.2011.07098](https://www.biodiversity-science.net/EN/10.3724/SP.J.1003.2011.07098) 
 
 ## Nitrogen fixation of moss-cyanobacteria association
 

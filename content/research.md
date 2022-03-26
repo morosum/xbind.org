@@ -20,6 +20,10 @@ Among those activities, clear-cut logging is a serious, if not the most, anthrop
 
 ![Picture showing a typical cutover in the eastern Tibetan Plateau](https://storage.live.com/items/D70A892E0DD05FA3!2931?authkey=AKNCRUpelpMuI5U)
 
+Forest gaps are the result of natural disturbance, leading to differences in understory microclimate conditions compared to those from below closed canopy, and support the growth of other trees and plants. The maintenance of species diversity by gaps have been recognized as a long-standing paradigm in forest ecology. There are more than 69 million ha plantations in China, and the area is expanding. A large area of plantations suffered from high tree density, simple community structure and low species diversity, limiting ecological functions. Emulating natural disturbance, such as gap formation, seems to be a promising approach to conserve biodiversity. In a 12-year field experiment, we found that the understory cover for the understory vegetation greatly increased in the first 4 years. In the later stage, 8 to 12 years since gap formation, the slightly decreased understory cover was mainly attributed to the decrease in ferns and forbs, while the shrub cover increased. Species composition differed among gaps and control sites even after 12 years since gap formation. Thus, emulating gap formation has long-lasting influences on forest structure and species diversity. 
+
+![Picture showing a canopy gap in a subalpine pine plantation](https://storage.live.com/items/D70A892E0DD05FA3!2948?authkey=AKNCRUpelpMuI5U)
+
 **Relevant**:
 
 + **Xin Liu** and Wei-Kai Bao 2014. Understory plant assemblages present distinct short-term responses to the clear-cutting of an old-growth spruce forest near an alpine timberline. *Canadian Journal of Forest Research* 44(6): 562-571. [DOI: 10.1139/cjfr-2013-0377](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfr-2013-0377?j)

@@ -1,6 +1,6 @@
 baseurl: "https://xliu.netlify.com/"
 languageCode: "en-us"
-title: "Xin Liu"
+title: "XL"
 theme: "hugo-ivy"
 googleAnalytics: ""
 disqusShortname: ""
@@ -59,11 +59,11 @@ menu:
       weight: 3
 
 params:
-  description: "Personal website of Xin Liu."
-  footer: "&copy; [Xin Liu](/) 2017-2022 | [Mail](mailto:liuxin.cib@gmail.com)"
+  description: "Personal website."
+  footer: "&copy; [XL](/) 2017-2022 | [Mail](mailto:liuxin.cib@gmail.com)"
   dateFormat: "2006/01/02"
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js", "load-typekit.js"]
-  customCSS: ["css/custom.css"]  
+  customCSS: ["css/custom.css"]
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.12.0"
@@ -75,9 +75,9 @@ params:
     en:
       img: "/images/logo.png"
       url: "/"
-      alt: "Xin Liu"
+      alt: "XL"
       tag: ""
 
   author:
-    en: "Xin Liu"
-    cn: "刘鑫"
+    en: "XL"
+    cn: "xBind"

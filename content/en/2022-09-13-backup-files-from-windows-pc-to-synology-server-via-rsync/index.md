@@ -44,4 +44,4 @@ Click the "Modify Schedule" button to configure the backup profile to run automa
 ### Useful links
 + [rsync](https://rsync.samba.org/)
 + [rsync 用法教程 - 阮一峰](https://www.ruanyifeng.com/blog/2020/08/rsync.html)
-+ [rsync tutorial by Everythin Linux](https://everythinglinux.org/rsync/)
++ [rsync tutorial by Everything Linux](https://everythinglinux.org/rsync/)

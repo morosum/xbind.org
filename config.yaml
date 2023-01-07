@@ -60,7 +60,7 @@ menu:
 
 params:
   description: "Personal website."
-  footer: "&copy; [XL](/) 2017-2022 | [Mail](mailto:liuxin.cib@gmail.com)"
+  footer: "&copy; [XL](/) 2017-2023 | [Mail](mailto:liuxin.cib@gmail.com)"
   dateFormat: "2006/01/02"
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js", "load-typekit.js"]
   customCSS: ["css/custom.css"]

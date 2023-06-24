@@ -41,6 +41,17 @@ Click the "Modify Schedule" button to configure the backup profile to run automa
 
 ![DeltaCopy Client configuation](https://storage.live.com/items/D70A892E0DD05FA3!2981?authkey=AKNCRUpelpMuI5U)
 
+### Windows Task Scheduler
+
+It seems the "Modify Schedule" configuration may fail to trigger the automatic backup. If that happened to you, the Windows Task Scheduler allows you to automate your backup. A task can be created with the following steps. 
+
+1. First, open "Start" menu, and search for "Task Scheduler" by typing in its name and open the application by clicking the top result or pressing enter button. 
+2. Second, right-click on the "Task Scheduler Library" branch and select the "New Folder" option to create a new folder for your tasks to keep them separate from system tasks. 
+3. Third, select your task folder and right-click in the middle-upper pane (or click the "Action" menu), and then "Create Basic Task". 
+4. Fourth,  type a short descriptive name for your task and click "Next". 
+5. Fifth, configure the triggers. You can set many triggers to run the task, for example, on a specific date, when a particular user logs in, or when connecting to a certain network. Then click "Next" to specify an action. 
+6. Sixth, select the "Start a program" option and click "Next". In the "Program/script" field, type in the full path to your DeltaCopy profile. There is a ".dcp" in your DeltaCopy folder with the name of your profile. For example, type in something like `D:\program\DeltaCopy\justatest.dcp`. Then, click "Next" and "Finish" buttons. Task Scheduler will save your task and run automatically according to your trigger configuration. 
+
 ### Useful links
 + [rsync](https://rsync.samba.org/)
 + [rsync 用法教程 - 阮一峰](https://www.ruanyifeng.com/blog/2020/08/rsync.html)

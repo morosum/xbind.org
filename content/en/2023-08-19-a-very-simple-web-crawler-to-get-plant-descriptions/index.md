@@ -4,7 +4,6 @@ date: '2023-08-19'
 slug: a-very-simple-web-crawler-to-get-plant-descriptions
 tags:
   - r
-  - web crawler
 ---
 
 As I was writing a chapter on the Vegegraphy of China, I needed to categorize all the plant species that appeared in the plots according to their life forms. To accomplish this, I had to search for the characteristics of numerous plants. Although the digitized version of the [Flora of China](http://www.iplant.cn/foc) was accessible for free, it became tedious when I had to look up information for several hundred plants. However, I discovered that obtaining these descriptions automatically was a breeze with the help of R and its httr package. <!-- Unlike those who make grad students do every dirty job, --> I opted for an efficient approach using programming.

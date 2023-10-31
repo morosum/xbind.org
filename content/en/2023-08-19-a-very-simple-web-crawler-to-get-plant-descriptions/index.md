@@ -1,12 +1,12 @@
 ---
-title: A very simple web crawler to get plant descriptions
+title: A very simple web scraper to get plant descriptions
 date: '2023-08-19'
-slug: a-very-simple-web-crawler-to-get-plant-descriptions
+slug: web-scraping-foc
 tags:
   - r
 ---
 
-As I was writing a chapter on the Vegegraphy of China, I needed to categorize all the plant species that appeared in the plots according to their life forms. To accomplish this, I had to search for the characteristics of numerous plants. Although the digitized version of the [Flora of China](http://www.iplant.cn/foc) was accessible for free, it became tedious when I had to look up information for several hundred plants. However, I discovered that obtaining these descriptions automatically was a breeze with the help of R and its httr package. <!-- Unlike those who make grad students do every dirty job, --> I opted for an efficient approach using programming.
+As I was writing a chapter on the Vegegraphy of China, I needed to categorize all the plant species that appeared in the plots according to their life forms. To accomplish this, I had to search for the characteristics of numerous plants. Although the digitized version of the [Flora of China](http://www.iplant.cn/foc) was accessible for free, it became tedious when I had to look up information for several hundred plants. However, I discovered that obtaining these descriptions automatically was a breeze with the help of R and its httr package. <!-- Unlike those who make grad students do every dirty job, I opted for an efficient approach using tools. --> Below is just an example of retrieving plant descriptions from the web, for a more general use of web scraping, more knowledge may be needed. A tutorial form [Omar Kamali](https://omarkama.li/blog/web-scraping-data-for-everyone) appears to be a good start.
 
 To begin, I conducted a search for a specific plant in the Flora of China. Let's use "Ginkgo biloba" as an example, which is known as the [sole survivor of an important lineage of gymnosperm](https://jecologyblog.com/2022/05/05/cover-stories-ginkgo-biloba/). When I accessed the explorer, it redirected me to the URL http://www.iplant.cn/info/Ginkgo%20biloba?t=foc, where I could find the plant's detailed information. In order to retrieve this page in R, I utilized the `httr::GET()` function. However, the downloaded object did not contain the descriptions of the plants.
 

@@ -14,15 +14,15 @@ Mosses, and other bryophytes, are especially important in the understory layer o
 
 The subalpine forests on the eastern Tibetan Plateau are very much similar to the forests of the boreal zone. They share a characteristic vegetation structure, consisting of a tree layer and an understory of dwarf shrubs, mosses and lichens. Understory plant communities are strongly influenced by the overstory, as the canopy structure controls light, temperature and moisture condition. The understory plant communities undergo extensive changes after silvicultural activities manipulating canopy layers. 
 
-![Pictures showing the understory of a subalpine forest and some common plants](https://storage.live.com/items/D70A892E0DD05FA3!2947?authkey=AKNCRUpelpMuI5U)
+![Pictures showing the understory of a subalpine forest and some common plants](https://assets.xbind.org/2025/02/5bf6ebf8a195be8394201af6861b6f27.jpg)
 
 Among those activities, clear-cut logging is a serious, if not the most, anthropogenic disturbance to the forest. It induces both physical damages to the understory and alterations in environmental factors. In a field experiment, we found that the short-term responses of understory vegetation to clear-cutting are distinct across different assemblages. Bryophytes are more sensitive than vascular plants, and cover percentage responded more swiftly than species richness to clear-cutting.
 
-![Picture showing a typical cutover in the eastern Tibetan Plateau](https://storage.live.com/items/D70A892E0DD05FA3!2931?authkey=AKNCRUpelpMuI5U)
+![Picture showing a typical cutover in the eastern Tibetan Plateau](https://assets.xbind.org/2025/02/13c8b122ce55f95eb87a21b1df0ce506.jpg)
 
 Forest gaps are the result of natural disturbance, leading to differences in understory microclimate conditions compared to those from below closed canopy, and support the growth of other trees and plants. The maintenance of species diversity by gaps have been recognized as a long-standing paradigm in forest ecology. There are more than 69 million ha plantations in China, and the area is expanding. A large area of plantations suffered from high tree density, simple community structure and low species diversity, limiting ecological functions. Emulating natural disturbance, such as gap formation, seems to be a promising approach to conserve biodiversity. In a 12-year field experiment, we found that the understory cover for the understory vegetation greatly increased in the first 4 years. In the later stage, 8 to 12 years since gap formation, the slightly decreased understory cover was mainly attributed to the decrease in ferns and forbs, while the shrub cover increased. Species composition differed among gaps and control sites even after 12 years since gap formation. Thus, emulating gap formation has long-lasting influences on forest structure and species diversity. 
 
-![Picture showing a canopy gap in a subalpine pine plantation](https://storage.live.com/items/D70A892E0DD05FA3!2948?authkey=AKNCRUpelpMuI5U)
+![Picture showing a canopy gap in a subalpine pine plantation](https://assets.xbind.org/2025/02/0a63027706e755352b8211f0faa45f27.JPG)
 
 **Relevant**:
 
@@ -34,7 +34,7 @@ Forest gaps are the result of natural disturbance, leading to differences in und
 
 Mosses are abundant in many pristine ecosystems, such as boreal forests, subalpine forests and subarctic tundra, where N deposition is low and plant growth is commonly limited by N availability. Nitrogen fixation performed by moss-associated cyanobacteria is the main N source in these ecosystems. Wide-ranging taxa of mosses have been found to host cyanobacteria, but nitrogen fixation activity of the association varies greatly among moss species. We examined morphological, chemical and water-balance traits for 4 moss species varying in nitrogen fixation activity, and correlated these traits to cyanobacterial abundance. We found hydration rate was one of the pivotal traits, explaining 56 and 38 % of the variation in nitrogen fixation and cyanobacterial colonization, respectively, and was linked to morphological traits of the moss species. A considerable amount of paraphyllia, filamentous appendages on *Hylocomium splendens* stems, was colonized by cyanobacteria. Check out the [press release](https://www.botany.one/2022/02/what-does-cyanobacteria-look-for-in-a-good-moss-host/) of our paper by the blog Botany One!
 
-![A picture showing a section of *Hylocomium splendens* stem with leaves and paraphyllia under an UV-fluorescence microscope](https://storage.live.com/items/D70A892E0DD05FA3!2935?authkey=AKNCRUpelpMuI5U)
+![A picture showing a section of *Hylocomium splendens* stem with leaves and paraphyllia under an UV-fluorescence microscope](https://assets.xbind.org/2025/02/1246fa1c0ccd1cde6590bcaec1ea1835.jpg)
 
 **Relevant**:
 
@@ -44,13 +44,13 @@ Mosses are abundant in many pristine ecosystems, such as boreal forests, subalpi
 
 Mosses comprise most of the understory in subalpine and boreal coniferous forests. They are assumed to be critical regulator of biogeochemical cycles in the forest ecosystems. Despite their high abundance in many ecosystems, it is still largely unknown how efficient mosses are in using and recycling nutrients, as well as the rate of mosses lose nutrient to the ecosystem via e.g. leaching. 
 
-![Pictures showing common mosses in subalpine forests in eastern Tibetan Plateau](https://storage.live.com/items/D70A892E0DD05FA3!2928?authkey=AKNCRUpelpMuI5U)
+![Pictures showing common mosses in subalpine forests in eastern Tibetan Plateau](https://assets.xbind.org/2025/02/03a67fd8983902dc8c6c8a03669dfb9e.jpg)
 
 Moss differ from vascular plants in both biology and ecology, such as lacking highly specialized conducting tissue and having leaves one cell thick. Because of these unique physiological and ecological characteristics, bryophytes serve as effcetive traps for water and nutrients in atmospheric deposition. These features, on the other hand, lead to the possibility of losing nutrients during changes in the microclimate such as sudden rain events. 
 
 To aid in understanding the N dynamics of mosses, we established and tested a conceptual framework describing the possible pathways that mosses recycle or lose N during senescence. We followed the fate of N in two dominant mosses using stable isotopes <sup>15</sup>N in old-growth fir forests in the eastern Tibetan Plateau. Unlike previously hypothesized, I found that the 2 mosses are efficient in N resorption. Nitrogen leaching from live tissue is an important but often overlooked pathway that the mosses release N. 
 
-<!-- <img src="https://storage.live.com/items/D70A892E0DD05FA3!2929?authkey=AKNCRUpelpMuI5U" width="400" alt="Pictures of Actinothuidium and Hylocomium"> -->
+<!-- <img src="https://assets.xbind.org/2025/02/4321ababed347323db52e7db46d89ee7.jpg" width="400" alt="Pictures of Actinothuidium and Hylocomium"> -->
 
 **Relevant**:
 

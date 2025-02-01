@@ -39,7 +39,7 @@ Now, you are ready to have a test run. Right-click on your profile name, and cli
 
 Click the "Modify Schedule" button to configure the backup profile to run automatically. A new task schedule window popped up. Set the intervals in the "Schedule" tab and click "OK". The task scheduler may ask for the password. Please note that you should input the password to your Windows user, not the password you set in Synology and not the 4-digit pin code that logs you in to your Windows PC. 
 
-![DeltaCopy Client configuation](https://storage.live.com/items/D70A892E0DD05FA3!2981?authkey=AKNCRUpelpMuI5U)
+![DeltaCopy Client configuation](https://assets.xbind.org/2025/02/06b4e6c43ec989cf407fe48a50441c01.png)
 
 ### Windows Task Scheduler
 

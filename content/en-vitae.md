@@ -49,5 +49,5 @@ disable_comments: true
 ### Presentation and Posters
 
 + **Xin Liu** and WeiKai Bao. 2012 June. Responses of forest-floor bryophyte assemblage to patched clear-cutting in primary spruce forest nearby alpine timberline. *The 3rd International Forum for Young Ecologists*, Henan University, Kaifeng, China. (Oral presentation)
-+ **Xin Liu**, Zhe Wang, XiaoMing Li and WeiKai Bao. 2017 July. *XIX International Botanical Congress*, Shenzhen, China. [Poster](https://xliu.updog.co/assets/slides/poster_ibc2017_T2-27-22.png)
++ **Xin Liu**, Zhe Wang, XiaoMing Li and WeiKai Bao. 2017 July. *XIX International Botanical Congress*, Shenzhen, China. [Poster](https://assets.xbind.org/2025/02/56febb964a8aa771be48e44f4a733f63.png)
 

@@ -4,7 +4,7 @@ author: "Xin Liu"
 date: '2017-01-28'
 ---
 
-![Understory bryophyte layer in a subalpine forest](https://storage.live.com/items/D70A892E0DD05FA3!2839?authkey=AKNCRUpelpMuI5U)
+![Understory bryophyte layer in a subalpine forest](https://assets.xbind.org/2025/02/c3a58fa0513912770dfb1920c689810c.jpg)
 
 This is Xin Liu's personal website. 
 
